@@ -1,1 +1,1 @@
-# calculator-project--Semyon-
+# Проект Калькулятор "Semyon".
